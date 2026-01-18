@@ -1,5 +1,5 @@
 const revealItems = document.querySelectorAll(
-  ".section, .hero-copy, .hero-panel, .service-card, .experience-card, .cta-panel"
+  ".section, .hero-copy, .hero-panel, .collection-card, .flavor-card, .atelier-card, .cta-panel"
 );
 
 const observer = new IntersectionObserver(
